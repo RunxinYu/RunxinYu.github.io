@@ -26,15 +26,15 @@ sections:
           company: Ministry of Finance of the People’s Republic of China
           company_url: ''
           location: Beijing
-          date_start: '2024-02'
-          date_end: '2024-04'
+          date_start: '2024-02-02'
+          date_end: '2024-04-02'
           description: special research on “Accelerating the Establishment of a Fiscal and Taxation System Corresponding to the Dual Carbon Goals”
         - title: Researcher
           company: Ministry of Ecology and Environment of the People’s Republic of China
           company_url: ''
           location: Beijing
-          date_start: '2023-07'
-          date_end: '2023-12'
+          date_start: '2023-07-02'
+          date_end: '2023-12-02'
           description: extensive research on the design of international carbon pricing initiates and assisting in related policy tracking and analysis
     design:
       columns: '2'
