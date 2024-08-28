@@ -8,7 +8,7 @@ main:
     url: bio
     weight: 10
   - name: Experience
-    url: /#experience
+    url: experience
     weight: 20
   - name: Talks
     url: post
