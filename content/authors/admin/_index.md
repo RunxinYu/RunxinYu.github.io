@@ -72,13 +72,27 @@ skills:
         icon: camera
 
 languages:
-  - name: Languages
+  - name: Chinese (Native)
     items:
-      - name: Chinese
-        description: 'Native'
+      - name: Speaking
+        description: ''
         percent: 100
-      - name: English
-        description: 'Fluent'
+      - name: Writing
+        description: ''
+        percent: 90
+      - name: Listening
+        description: ''
+        percent: 90
+  - name: English
+    items:
+      - name: Speaking
+        description: ''
+        percent: 100
+      - name: Writing
+        description: ''
+        percent: 90
+      - name: Listening
+        description: ''
         percent: 90
 
 # Social/Academic Networking
