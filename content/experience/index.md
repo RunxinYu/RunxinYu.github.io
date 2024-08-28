@@ -65,12 +65,68 @@ sections:
           date_end: ''
           description: “Letter Requesting Assistance in Research on the Key Issues on the Construction of the National Carbon Market”
         - title: Investigator
+          company: China Institute for Innovation & Development Strategy
+          company_url: ''
+          location: Beijing
+          date_start: '2022-01-02'
+          date_end: ''
+          description: “Comprehensive Study on Carbon Peak and Carbon Neutralization Paths and Countermeasures”
+        - title: Investigator
           company: Beijing Municipal Commission of Transport
           company_url: ''
           location: Beijing
           date_start: '2023-07-02'
           date_end: '2024-07-02'
           description: “Research on the Theory of Carbon Inclusion Mechanism and the Additionality of Corresponding Generated Carbon Credits”
+        - title: Investigator
+          company: Tsinghua University - Toyota Joint Research Institute
+          company_url: ''
+          location: Beijing
+          date_start: '2021-04-02'
+          date_end: '2022-03-02'
+          description: “China’s National Emissions Trading System and Japan-China Dialogue on Carbon Pricing”
+        - title: Investigator
+          company: Ministry of Finance of the People’s Republic of China
+          company_url: ''
+          location: Beijing
+          date_start: '2023-07-02'
+          date_end: '2023-10-02'
+          description: “Research on fiscal and tax policies supporting the development of ‘dual carbon’”
+        - title: Investigator
+          company: The Environmental Defense Fund
+          company_url: ''
+          location: Beijing
+          date_start: '2022-09-02'
+          date_end: '2023-09-02'
+          description: “Scheme of Allowance Allocation in the Third Compliance Cycle of National Carbon Market and the ‘Dual Control’ of Carbon Emissions”
+        - title: Investigator
+          company: The Environmental Defense Fund
+          company_url: ''
+          location: Beijing
+          date_start: '2022-09-02'
+          date_end: '2023-09-02'
+          description: “Analysis of Factors Influencing Carbon Price in the National Carbon Market and Research on Auction Mechanism”
+        - title: Investigator
+          company: The Environmental Defense Fund
+          company_url: ''
+          location: Beijing
+          date_start: '2021-10-02'
+          date_end: '2022-10-02'
+          description: “Introducing Auctioning in China’s National Emissions Trading Scheme”
+        - title: Investigator
+          company: The Environmental Defense Fund
+          company_url: ''
+          location: Beijing
+          date_start: '2020-10-02'
+          date_end: '2021-10-02'
+          description: “Data Quality Analysis and Warning Systems for the ETS Firms”
+        - title: Investigator
+          company: China Institute for Innovation & Development Strategy
+          company_url: ''
+          location: Beijing
+          date_start: '2021-06-02'
+          date_end: '2022-05-02'
+          description: “China-US Climate Change Dialogue and Cooperation Mechanism for Carbon Pricing”
     design:
       columns: '2'
 ---
