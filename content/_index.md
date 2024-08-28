@@ -4,6 +4,10 @@ title:
 date: 2022-10-24
 type: landing
 
+header:
+  navbar:
+    enable: false
+
 sections:
   - block: hero
     content:
