@@ -72,7 +72,8 @@ skills:
         icon: camera
 
 languages:
-  - items:
+  - name: Languages
+    items:
     - name: Chinese
       description: 'Native'
       percent: 100

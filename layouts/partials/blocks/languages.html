@@ -29,7 +29,7 @@
     {{ $color := .color | default "" }}
     {{ $color_border := .color_border | default "" }}
     <div class="col-12 col-md-6">
-      <div class="skill-group-title">
+      <div class="language-group-title">
         {{ .name | markdownify | emojify }}
         {{ with .description }}<p>{{ . | markdownify | emojify }}</p>{{ end }}
       </div>
