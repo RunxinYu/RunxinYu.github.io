@@ -84,6 +84,8 @@ languages:
         description: ''
         percent: 90
   - name: English
+    color: '#eeac02'
+    color_border: '#f0bf23'
     items:
       - name: Speaking
         description: ''
