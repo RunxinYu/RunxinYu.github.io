@@ -20,7 +20,7 @@ sections:
             filename: yurx_5.jpg
             filters:
               brightness: 0.7
-          position: right
+          position: left
           color: '#666'
         link:
           icon: graduation-cap
@@ -35,7 +35,7 @@ sections:
             filename: yurx_1.jpg
             filters:
               brightness: 0.7
-          position: center
+          position: left
           color: '#555'
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
