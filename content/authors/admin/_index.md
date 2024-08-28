@@ -10,12 +10,12 @@ last_name: Yu
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Ph.D. Candidate
 
 # Organizations/Affiliations
 organizations:
   - name: Tsinghua University
-    url: 'www.tsinghua.edu.cn'
+    url: 'https://www.tsinghua.edu.cn'
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -35,6 +35,38 @@ education:
     - course: BSc in Accounting
       institution: Sun Yat-Sen University
       year: 2020
+
+skills:
+  - name: Technical Skills
+    items:
+      - name: Stata
+        description: ''
+        percent: 80
+        icon: code-bracket
+      - name: Python
+        description: ''
+        percent: 80
+        icon: chart-bar
+      - name: SQL
+        description: ''
+        percent: 80
+        icon: circle-stack
+  - name: Hobbies
+    color: '#eeac02'
+    color_border: '#f0bf23'
+    items:
+      - name: Hiking
+        description: ''
+        percent: 60
+        icon: person-simple-walk
+      - name: Cats
+        description: ''
+        percent: 100
+        icon: cat
+      - name: Photography
+        description: ''
+        percent: 80
+        icon: camera
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
