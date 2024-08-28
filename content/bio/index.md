@@ -23,6 +23,14 @@ sections:
       username: admin
     design:
       columns: '1'
+  - block: languages
+    content:
+      title: Languages
+      text: ''
+      # Choose a user to display skills from (a folder name within `content/authors/`)
+      username: admin
+    design:
+      columns: '1'
   - block: experience
     content:
       title: Professional Experience
@@ -86,13 +94,4 @@ sections:
           description: “Research on the Theory of Carbon Inclusion Mechanism and the Additionality of Corresponding Generated Carbon Credits”
     design:
       columns: '2'
-  - block: languages
-    content:
-      title: Languages &
-      text: ''
-      # Choose a user to display skills from (a folder name within `content/authors/`)
-      username: admin
-    design:
-      columns: '1'
-
 ---
