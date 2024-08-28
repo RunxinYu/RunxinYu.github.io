@@ -41,7 +41,7 @@ skills:
     items:
       - name: Stata
         description: ''
-        percent: 80
+        percent: 100
         icon: chart-bar
       - name: Python
         description: ''
@@ -57,7 +57,7 @@ skills:
     items:
       - name: Dancing
         description: ''
-        percent: 60
+        percent: 100
         icon: d
       - name: Cats
         description: ''
