@@ -14,7 +14,7 @@ sections:
       slides:
       - title: Happy birthday!
         content: Take a look at what we're working on...
-        align: center
+        align: left
         background:
           image:
             filename: yurx_5.jpg
@@ -27,6 +27,16 @@ sections:
           icon_pack: fas
           text: About me
           url: ./bio/
+      - title: Enjoy Life ☕️
+        content: 'Share your knowledge with the group and explore exciting new topics together!'
+        align: left
+        background:
+          image:
+            filename: yurx_1.jpg
+            filters:
+              brightness: 0.7
+          position: center
+          color: '#555'
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: ''
