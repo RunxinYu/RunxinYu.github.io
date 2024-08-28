@@ -42,23 +42,23 @@ skills:
       - name: Stata
         description: ''
         percent: 80
-        icon: code-bracket
+        icon: chart-bar
       - name: Python
         description: ''
         percent: 80
-        icon: chart-bar
+        icon: code
       - name: SQL
         description: ''
         percent: 80
-        icon: circle-stack
+        icon: database
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Dancing
         description: ''
         percent: 60
-        icon: person-simple-walk
+        icon: moutain-sun
       - name: Cats
         description: ''
         percent: 100
