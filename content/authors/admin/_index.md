@@ -21,18 +21,18 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - Emissions Trading System
-  - Econometrics
+  - Energy and Climate Policy
+  - Price-based Instruments
   - Carbon Offset
-  - Data Qulity
+  - Environmental and Resource Economics
   - Machine Learning
 
 education:
   courses:
-    - course: PhD in Management Science and Engineering
+    - course: Ph.D. in Management Science and Engineering
       institution: Tsinghua University
       year: 2025
-    - course: BSc in Accounting
+    - course: B.Sc. in Accounting
       institution: Sun Yat-Sen University
       year: 2020
 
@@ -58,7 +58,7 @@ skills:
       - name: Dancing
         description: ''
         percent: 60
-        icon: moutain-sun
+        icon: d
       - name: Cats
         description: ''
         percent: 100
@@ -75,7 +75,7 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'yurx20@mails.tsinghua.edu.cn'
+    link: 'yrx20@mails.tsinghua.edu.cn'
   - icon: github
     icon_pack: fab
     link: https://github.com/RunxinYu
