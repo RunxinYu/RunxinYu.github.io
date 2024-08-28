@@ -20,7 +20,7 @@ sections:
     design:
       columns: '1'
   - block: experience
-    ccontent:
+    content:
       title: Professional Experience
       # Date format for experience
       #   Refer to https://docs.hugoblox.com/customization/#date-format
@@ -37,8 +37,7 @@ sections:
           location: Beijing
           date_start: '2024-02'
           date_end: '2024-04'
-          description: |2-
-              special research on “Accelerating the Establishment of a Fiscal and Taxation System Corresponding to the Dual Carbon Goals”
+          description: special research on “Accelerating the Establishment of a Fiscal and Taxation System Corresponding to the Dual Carbon Goals”
         - title: Researcher
           company: Ministry of Ecology and Environment of the People’s Republic of China
           company_url: ''
