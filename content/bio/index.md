@@ -86,9 +86,12 @@ sections:
           description: “Research on the Theory of Carbon Inclusion Mechanism and the Additionality of Corresponding Generated Carbon Credits”
     design:
       columns: '2'
-  - block: markdown
+  - block: languages
     content:
-      title: Language
-      subtitle: ''
-      text: Chinese (Native); English (Fluent)
+      title: Languages
+      text: ''
+      # Choose a user to display skills from (a folder name within `content/authors/`)
+      username: admin
+    design:
+      columns: '1'
 ---
