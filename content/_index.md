@@ -22,6 +22,11 @@ sections:
               brightness: 0.7
           position: right
           color: '#666'
+        link:
+          icon: graduation-cap
+          icon_pack: fas
+          text: About me
+          url: ./bio/
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: ''
