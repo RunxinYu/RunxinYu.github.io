@@ -74,12 +74,12 @@ skills:
 languages:
   - name: Languages
     items:
-    - name: Chinese
-      description: 'Native'
-      percent: 100
-    - name: English
-      description: 'Fluent'
-      percent: 90
+      - name: Chinese
+        description: 'Native'
+        percent: 100
+      - name: English
+        description: 'Fluent'
+        percent: 90
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
