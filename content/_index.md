@@ -16,6 +16,13 @@ sections:
         content: Take a look at what we're working on...
         align: left
         background:
+          video:
+            filename: hbd.mp4
+            flip: false
+      - title: Happy birthday!
+        content: Take a look at what we're working on...
+        align: left
+        background:
           image:
             filename: yurx_5.jpg
             filters:
@@ -44,5 +51,5 @@ sections:
       # Automatically transition through slides?
       loop: true
       # Duration of transition between slides (in ms)
-      interval: 5000
+      interval: 4500
 ---
