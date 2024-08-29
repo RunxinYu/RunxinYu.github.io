@@ -9,3 +9,5 @@ banner:
   caption: ''
   image: ''
 ---
+
+{{< video "/assets/media/hbd.mp4" "my-5" >}}
