@@ -16,13 +16,6 @@ sections:
         content: Take a look at what we're working on...
         align: left
         background:
-          video:
-            filename: hbd.mp4
-            flip: false
-      - title: Happy birthday!
-        content: Take a look at what we're working on...
-        align: left
-        background:
           image:
             filename: yurx_5.jpg
             filters:

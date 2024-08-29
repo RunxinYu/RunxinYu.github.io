@@ -5,6 +5,12 @@ type: landing
 
 design:
   spacing: '5rem'
+  background:
+    video:
+      # Name of video in `assets/media/`.
+      filename: hbd.mp4
+      # Post-processing: flip the video horizontally?
+      flip: false
 
 # Note: `username` refers to the user's folder name in `content/authors/`
 
