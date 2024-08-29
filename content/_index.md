@@ -23,7 +23,7 @@ sections:
           position: left
           color: '#666'
         link:
-          icon: at-symbol
+          icon: figshare
           icon_pack: fas
           text: About me
           url: ./bio/
