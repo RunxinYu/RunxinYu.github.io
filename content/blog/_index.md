@@ -10,4 +10,4 @@ banner:
   image: ''
 ---
 
-{{< video src="hbd" width="1200px">}}
+{{< video src="hbd" width="800px">}}
