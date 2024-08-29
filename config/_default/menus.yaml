@@ -17,6 +17,6 @@ main:
     url: post
     weight: 400
   - name: Blogs
-    url: event
+    url: blog
     weight: 500
   

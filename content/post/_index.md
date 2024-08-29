@@ -9,5 +9,3 @@ banner:
   caption: ''
   image: ''
 ---
-
-{{< video src="hbd" width="600px">}}
