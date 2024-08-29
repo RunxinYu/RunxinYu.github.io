@@ -24,7 +24,7 @@ sections:
           color: '#666'
         link:
           icon: figshare
-          icon_pack: fas
+          icon_pack: ai
           text: About me
           url: ./bio/
       - title: Leakage or Benefit? Spillovers from a Forest Offset Program in China
