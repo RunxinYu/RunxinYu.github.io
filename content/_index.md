@@ -12,8 +12,8 @@ sections:
   - block: slider
     content:
       slides:
-      - title: Happy birthday!
-        content: Take a look at what we're working on...
+      - title: Welcome to my site!
+        content: I am interested in energy and climate policy research.
         align: left
         background:
           image:
@@ -23,16 +23,16 @@ sections:
           position: left
           color: '#666'
         link:
-          icon: graduation-cap
+          icon: at-symbol
           icon_pack: fas
           text: About me
           url: ./bio/
-      - title: Enjoy Life ☕️
-        content: 'Share your knowledge with the group and explore exciting new topics together!'
+      - title: Leakage or Benefit? Spillovers from a Forest Offset Program in China
+        content: Latest talk at the EAERE conference 2024.
         align: left
         background:
           image:
-            filename: yurx_1.jpg
+            filename: eaere_2024.jpg
             filters:
               brightness: 0.7
           position: left
