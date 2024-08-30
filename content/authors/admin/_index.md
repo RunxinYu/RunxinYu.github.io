@@ -75,12 +75,15 @@ skills:
       - name: Chinese (Mandarin)
         description: 'Native'
         percent: 100
-      - name: English
-        description: 'Fluent'
-        percent: 90
+        icon: m
       - name: Chinese (Hokkien)
         description: 'Native'
         percent: 100
+        icon: h
+      - name: English
+        description: 'Fluent'
+        percent: 90
+        icon: e
   
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
