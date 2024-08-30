@@ -13,7 +13,7 @@ sections:
     content:
       slides:
       - title: 朱颜长似，头上花枝，岁岁年年！
-        content: 不管几岁，快乐万岁！
+        content: 一岁又一岁，快乐就万岁，生日快乐！
         align: left
         background:
           image:
@@ -24,7 +24,7 @@ sections:
         link:
           icon: figshare
           icon_pack: ai
-          text: 由此开启人生新篇章-->
+          text: 由此开启人生新阶段-->
           url: ./blog/
       - title: Welcome to my site!
         content: I am interested in energy and climate policy research.
@@ -36,11 +36,11 @@ sections:
               brightness: 0.7
           position: left
           color: '#666'
-        link:
-          icon: figshare
-          icon_pack: ai
-          text: About me
-          url: ./bio/
+        #link:
+        #  icon: figshare
+        #  icon_pack: ai
+        #  text: About me
+        #  url: ./bio/
       - title: Leakage or Benefit? Spillovers from a Forest Offset Program in China
         content: Latest talk at the EAERE conference 2024.
         align: left
