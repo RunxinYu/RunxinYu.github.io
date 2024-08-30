@@ -36,11 +36,9 @@ sections:
               brightness: 0.7
           position: left
           color: '#666'
-        #link:
-        #  icon: figshare
-        #  icon_pack: ai
-        #  text: About me
-        #  url: ./bio/
+        link:
+          text: About me
+          url: ./bio/
       - title: Leakage or Benefit? Spillovers from a Forest Offset Program in China
         content: Latest talk at the EAERE conference 2024.
         align: left
@@ -51,6 +49,9 @@ sections:
               brightness: 0.7
           position: left
           color: '#555'
+        link:
+          text: Details
+          url: ./post/
       - title: Machine Learning For Data Verification In Emissions Trading System
         content: Resources, Conservation and Recycling, 199, 107239.
         align: left
@@ -61,6 +62,9 @@ sections:
               brightness: 0.7
           position: left
           color: '#555'
+        link:
+          text: Details
+          url: ./publication/
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: ''
