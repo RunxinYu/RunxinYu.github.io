@@ -28,7 +28,6 @@ interests:
   - Price-based Instruments
   - Carbon Offset
   - Environmental and Resource Economics
-  - Machine Learning
 
 education:
   courses:
