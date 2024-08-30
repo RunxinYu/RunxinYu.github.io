@@ -58,16 +58,16 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Chinese (Mandarin)
-        description: 'Native'
+      - name: Chinese (Mandarin, native)
+        description: ''
         percent: 100
         icon: m
-      - name: Chinese (Hokkien)
-        description: 'Native'
+      - name: Chinese (Hokkien, native)
+        description: ''
         percent: 100
         icon: h
-      - name: English
-        description: 'Fluent'
+      - name: English (fluent)
+        description: ''
         percent: 90
         icon: e
   
