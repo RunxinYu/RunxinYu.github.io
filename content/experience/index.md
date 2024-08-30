@@ -28,21 +28,21 @@ sections:
           location: Beijing
           date_start: '2024-02-02'
           date_end: '2024-04-02'
-          description: special research on “Accelerating the Establishment of a Fiscal and Taxation System Corresponding to the Dual Carbon Goals”
+          description: Special research on “Accelerating the Establishment of a Fiscal and Taxation System Corresponding to the Dual Carbon Goals”
         - title: Researcher
           company: Ministry of Ecology and Environment of the People’s Republic of China
           company_url: ''
           location: Beijing
           date_start: '2023-07-02'
           date_end: '2023-12-02'
-          description: extensive research on the design of international carbon pricing initiates and assisting in related policy tracking and analysis
+          description: Extensive research on the design of international carbon pricing initiates and assisting in related policy tracking and analysis
         - title: Intern
           company: China International Capital Corporation
           company_url: ''
           location: Beijing
           date_start: '2021-01-02'
           date_end: '2021-04-02'
-          description: assisting in drafting regional carbon neutrality reports, China-US climate cooperation reports, and daily data collection
+          description: Assisting in drafting regional carbon neutrality reports, China-US climate cooperation reports, and daily data collection
     design:
       columns: '2'
   - block: experience
