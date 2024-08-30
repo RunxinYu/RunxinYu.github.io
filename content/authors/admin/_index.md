@@ -96,4 +96,4 @@ highlight_name: false
 
 ---
 
-I am a Ph.D. candidate at the Institute of Energy, Environment and Economy, Tsinghua University, under the supervision of Prof. Xiliang Zhang. My research interests include energy and climate policy, price-based instruments, environmental and resource economics, and the application of artificial intelligence in management sciences. I graduated from Sun Yat-sen University (https://www.sysu.edu.cn/) and received bachelor’s degree in accounting from the International School of Business & Finance (https://isbf.sysu.edu.cn/).
+I am a Ph.D. candidate at the Institute of Energy, Environment and Economy, Tsinghua University, under the supervision of Prof. Xiliang Zhang. My research interests include energy and climate policy, price-based instruments, environmental and resource economics, and the application of artificial intelligence in management sciences. I graduated from Sun Yat-sen University (https://www.sysu.edu.cn) and received bachelor’s degree in accounting from the International School of Business & Finance (https://isbf.sysu.edu.cn).
