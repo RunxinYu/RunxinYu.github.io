@@ -71,6 +71,8 @@ skills:
         percent: 80
         icon: camera
   - name: Languages
+    color: '#eeac02'
+    color_border: '#f0bf23'
     items:
       - name: Chinese (Mandarin)
         description: 'Native'
