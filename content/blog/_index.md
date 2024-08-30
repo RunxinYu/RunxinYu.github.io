@@ -11,4 +11,4 @@ banner:
   
 ---
 
-{{< video src="hbd" width="700px">}}
+{{< video src="hbd" width="800px" height="600px">}}

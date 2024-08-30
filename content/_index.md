@@ -24,7 +24,7 @@ sections:
         link:
           icon: figshare
           icon_pack: ai
-          text: 由此开启人生新阶段-->
+          text: 由此开启新的阶段-->
           url: ./blog/
       - title: Welcome to my site!
         content: I am interested in energy and climate policy research.
