@@ -16,7 +16,7 @@ main:
   - name: Talks
     url: post
     weight: 400
-  - name: Blogs
+  - name: Specials
     url: blog
     weight: 500
   

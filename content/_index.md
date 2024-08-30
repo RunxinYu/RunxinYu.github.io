@@ -51,6 +51,16 @@ sections:
               brightness: 0.7
           position: left
           color: '#555'
+        - title: Machine Learning For Data Verification In Emissions Trading System
+          content: Resources, Conservation and Recycling, 199, 107239.
+          align: left
+          background:
+            image:
+              filename: coal_emis.jpg
+              filters:
+                brightness: 0.7
+            position: left
+            color: '#555'
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: ''
