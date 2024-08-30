@@ -6,8 +6,9 @@ view: compact
 
 # Optional header image (relative to `assets/media/` folder).
 banner:
-  caption: '润心，生日快乐！'
+  caption: ''
   image: birthday.jpg
+  
 ---
 
 {{< video src="hbd" width="600px">}}
