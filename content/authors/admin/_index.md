@@ -54,22 +54,6 @@ skills:
         description: ''
         percent: 80
         icon: database
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Dancing
-        description: ''
-        percent: 100
-        icon: d
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera
   - name: Languages
     color: '#eeac02'
     color_border: '#f0bf23'
