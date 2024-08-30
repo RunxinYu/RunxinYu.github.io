@@ -70,33 +70,18 @@ skills:
         description: ''
         percent: 80
         icon: camera
-
-languages:
-  - name: Chinese (Native)
+  - name: Languages
     items:
-      - name: Speaking
-        description: ''
+      - name: Chinese (Mandarin)
+        description: 'Native'
         percent: 100
-      - name: Writing
-        description: ''
+      - name: English
+        description: 'Fluent'
         percent: 90
-      - name: Listening
-        description: ''
-        percent: 90
-  - name: English
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Speaking
-        description: ''
+      - name: Chinese (Hokkien)
+        description: 'Native'
         percent: 100
-      - name: Writing
-        description: ''
-        percent: 90
-      - name: Listening
-        description: ''
-        percent: 90
-
+  
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the

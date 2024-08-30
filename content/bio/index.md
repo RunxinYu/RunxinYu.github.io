@@ -39,7 +39,7 @@ sections:
       view: card
   - block: skills
     content:
-      title: Skills & Hobbies
+      title: Skills, Hobbies & Lanuages
       text: ''
       # Choose a user to display skills from (a folder name within `content/authors/`)
       username: admin
@@ -104,12 +104,4 @@ sections:
         organization_url: ''
         title: Outstanding Volunteer Award
         url: ''
-  - block: languages
-    content:
-      title: 语言
-      text: ''
-      # Choose a user to display skills from (a folder name within `content/authors/`)
-      username: admin
-    design:
-      columns: '1'
 ---
