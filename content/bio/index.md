@@ -16,12 +16,23 @@ sections:
         image:
           filename: bg-hue.svg
   - block: collection
-    id: featured
+    id: featured-pub
     content:
       title: Featured Publications
       filters:
         folders:
           - publication
+        featured_only: true
+    design:
+      columns: '2'
+      view: card
+    - block: collection
+    id: featured-tals
+    content:
+      title: Featured Talks
+      filters:
+        folders:
+          - post
         featured_only: true
     design:
       columns: '2'
