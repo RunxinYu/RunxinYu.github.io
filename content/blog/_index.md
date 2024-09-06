@@ -8,7 +8,8 @@ view: compact
 banner:
   caption: ''
   image: birthday.jpg
-  
+
+#{{< video src="hbd" width="800px" height="600px">}}
+
 ---
 
-{{< video src="hbd" width="800px" height="600px">}}
