@@ -77,13 +77,13 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    #link: 'yrx20@mails.tsinghua.edu.cn'
+    link: "mailto:yrx20@mails.tsinghua.edu.cn"
   - icon: github
     icon_pack: fab
-    #link: https://github.com/RunxinYu
-  - icon: cv
-    icon_pack: ai
-    #link:
+    link: https://github.com/RunxinYu
+  #- icon: cv
+  #  icon_pack: ai
+  #  link:
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
