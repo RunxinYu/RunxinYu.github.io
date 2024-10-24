@@ -83,7 +83,7 @@ social:
     link: https://github.com/RunxinYu
   - icon: cv
     icon_pack: ai
-    link: files/cv.pdf
+    link:
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
