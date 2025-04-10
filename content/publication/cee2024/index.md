@@ -1,5 +1,5 @@
 ---
-title: "Machine learning for data verification in emissions trading system"
+title: "Forest vegetation increased across China’s carbon offset projects and positively impacted neighboring areas"
 authors:
 - Runxin Yu
 - Shiping Ma
@@ -17,7 +17,7 @@ publishDate: "2024-12-18T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Resources, Conservation and Recycling, 199*(107239)"
+publication: "*Communications Earth & Environment,* 2024, 5(1): 767"
 publication_short: ""
 
 abstract: As forest-based carbon offset programs gain increasing attention, quantifying their impacts beyond project boundaries remains an open issue, particularly in subtropical and temperate regions. Here we focus on the local spillover effects of 36 forest offset projects in China’s voluntary carbon market. Using matching and difference-in-difference analysis, we compare the forest status of the project areas and buffer zones to their reference areas. Results show overall positive forest gains of 2.25% to 4.25% in project sites, with neighboring areas seeing spillover gains of 0.91% to 1.60%, exhibiting heterogeneity in individual projects. Further analysis finds limited evidence of leakage, possibly due to China’s land policies and project features; instead, positive spillovers are facilitated by knowledge diffusion and information flow, supported by reduced wildfire activities and project application patterns. This study demonstrates that well-designed forest offset programs can yield benefits beyond their boundaries, providing insights for offset policy design and project implementation.
