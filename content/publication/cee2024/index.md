@@ -32,7 +32,7 @@ featured: true
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://www.nature.com/commsenv/articles?type=article
+url_pdf: https://www.nature.com/articles/s43247-024-01962-y#Abs1
 url_code: ''
 url_dataset: ''
 url_poster: ''
