@@ -1,5 +1,5 @@
 ---
-title: 生日快乐！
+title: Blogs
 
 # Listing view
 view: compact
