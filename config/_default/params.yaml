@@ -45,7 +45,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Runxin Yu.'
+    notice: '© {year} Runxin Yu All Reserved.'
     license:
       enable: false
       allow_derivatives: false

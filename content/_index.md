@@ -26,7 +26,7 @@ sections:
       #    icon_pack: ai
       #    text: 由此，开启新的一岁 -->
       #    url: ./blog/
-      - title: Welcome to my site!
+      - title: Welcome to my website!
         content: I am interested in energy and climate policy research.
         align: left
         background:
