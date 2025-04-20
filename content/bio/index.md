@@ -46,62 +46,62 @@ sections:
     design:
       columns: '1'
   - block: accomplishments
-    content:
-      title: Fellowships and Awards
-      date_format: Jan 2006
-      items:
-      - certificate_url: ''
-        date_end: ''
-        date_start: '2023-10-25'
-        description: ''
-        icon: award
-        organization: Tsinghua University
-        organization_url: ''
-        title: Outstanding Student First-class Scholarship
-        url: ''
-      - certificate_url: ''
-        date_end: ''
-        date_start: '2022-10-25'
-        description: ''
-        icon: award
-        organization: Tsinghua University
-        organization_url: ''
-        title: Outstanding Student First-class Scholarship
-        url: ''
-      - certificate_url: ''
-        date_end: ''
-        date_start: '2021-10-25'
-        description: ''
-        icon: award
-        organization: Tsinghua University
-        organization_url: ''
-        title: Outstanding Student Second-class Scholarship
-        url: ''
-      - certificate_url: ''
-        date_end: ''
-        date_start: '2020-10-25'
-        description: ''
-        icon: award
-        organization: Sun Yat-sen University
-        organization_url: ''
-        title: Outstanding Student First-class Scholarship
-        url: ''
-      - certificate_url: ''
-        date_end: ''
-        date_start: '2017-10-25'
-        description: ''
-        icon: award
-        organization: Sun Yat-sen University
-        organization_url: ''
-        title: Outstanding Student Leader Award
-        url: ''
-      - certificate_url: ''
-        date_end: ''
-        date_start: '2017-10-25'
-        description: ''
-        icon: award
-        organization: Sun Yat-sen University
-        organization_url: ''
-        title: Outstanding Volunteer Award
-        url: ''
----
+#     content:
+#       title: Fellowships and Awards
+#       date_format: Jan 2006
+#       items:
+#       - certificate_url: ''
+#         date_end: ''
+#         date_start: '2023-10-25'
+#         description: ''
+#         icon: award
+#         organization: Tsinghua University
+#         organization_url: ''
+#         title: Outstanding Student First-class Scholarship
+#         url: ''
+#       - certificate_url: ''
+#         date_end: ''
+#         date_start: '2022-10-25'
+#         description: ''
+#         icon: award
+#         organization: Tsinghua University
+#         organization_url: ''
+#         title: Outstanding Student First-class Scholarship
+#         url: ''
+#       - certificate_url: ''
+#         date_end: ''
+#         date_start: '2021-10-25'
+#         description: ''
+#         icon: award
+#         organization: Tsinghua University
+#         organization_url: ''
+#         title: Outstanding Student Second-class Scholarship
+#         url: ''
+#       - certificate_url: ''
+#         date_end: ''
+#         date_start: '2020-10-25'
+#         description: ''
+#         icon: award
+#         organization: Sun Yat-sen University
+#         organization_url: ''
+#         title: Outstanding Student First-class Scholarship
+#         url: ''
+#       - certificate_url: ''
+#         date_end: ''
+#         date_start: '2017-10-25'
+#         description: ''
+#         icon: award
+#         organization: Sun Yat-sen University
+#         organization_url: ''
+#         title: Outstanding Student Leader Award
+#         url: ''
+#       - certificate_url: ''
+#         date_end: ''
+#         date_start: '2017-10-25'
+#         description: ''
+#         icon: award
+#         organization: Sun Yat-sen University
+#         organization_url: ''
+#         title: Outstanding Volunteer Award
+#         url: ''
+# ---
