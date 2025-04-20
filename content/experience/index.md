@@ -22,7 +22,7 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Energy specialist
+        - title: Researcher
           company: Ministry of Finance of the People’s Republic of China
           company_url: ''
           location: Beijing
