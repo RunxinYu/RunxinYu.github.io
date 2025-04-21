@@ -16,7 +16,7 @@ publishDate: "2024-10-16T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Climate Policy, (1-17)"
+publication: "*Climate Policy,* 2024, (1-17)"
 publication_short: ""
 
 abstract: In the pursuit of its climate goals, China’s national carbon market is actively exploring the introduction of allowance auctioning to strengthen domestic mitigation efforts. However, this process involves complex design elements and faces significant challenges, with a lack of comprehensive analysis and guidance. This study delves into theoretical and practical aspects of key design elements – auction format, eligibility, frequency, size, reserve price, use of revenue, platform, and market access – focusing on the rationale, policy concerns, and market performance. Drawing insights from international and domestic practices, it summarizes a range of auctioning approaches, aiming to offer insights for other emissions trading systems that are considering allowance auctioning. It emphasizes designing auctions tailored to different circumstances and illustrates how these can be adapted to China, where auctions are considered tools to enhance carbon pricing, promote market efficiency, and bolster resilience against carbon border adjustment mechanisms. It also investigates practical issues specific to China – such as policy acceptance, administrative costs, and necessary supporting mechanisms – thereby highlighting potential challenges.
@@ -25,7 +25,7 @@ abstract: In the pursuit of its climate goals, China’s national carbon market 
 summary:
 
 tags:
-featured: 
+featured: true
 
 # links:
 # - name: ""

@@ -83,7 +83,7 @@ social:
     link: https://github.com/RunxinYu
   - icon: cv
     icon_pack: ai
-    link: CV_YRX.pdf
+    link: files/yrx_en.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -99,3 +99,5 @@ highlight_name: false
 I am a Ph.D. candidate at the Institute of Energy, Environment and Economy, Tsinghua University. In Spring 2025, I was a Visiting Scholar at the California-China Climate Institute, University of California, Berkeley. My research interest focuses on energy and climate policy, environmental and resource economics, and price-based instruments, with a particular emphasis on emissions trading system (known as carbon markets). 
 
 My work examines critical aspects of carbon market design—such as cap-setting, sectoral coverage, allowance allocation, and market stability — contributing to development of China's carbon market through academic publications, public reports, and confidential briefs. I also investigate voluntary carbon markets (e.g., forestry offsets) and inclusive decarbonization mechanisms(e.g., personal carbon accounts). Moving forward, I aim to deepen insights into carbon pricing, policy co-benefits, energy and climate justice, and innovative climate solutions.
+
+My lastest CV can be found in the left icon.

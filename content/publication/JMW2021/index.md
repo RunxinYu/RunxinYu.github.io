@@ -16,7 +16,7 @@ publishDate: "2021-8-05T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*J. Manag. World, 8*(80-95)"
+publication: "*J. Manag. World, * 2021, 8(80-95)"
 publication_short: ""
 
 abstract: The design of China’s national emissions trading system (ETS) needs to incorporate economic theory and international experiences, but more importantly, should fully consider China’s current situation to develop an ETS with Chinese characteristics. At the initial phase, China’s national ETS is a rate-based rather than mass-based system. It is essentially a multi-sector tradable performance standard and will serve as a tax or subsidy for different activities. China’s national ETS has a flexible cap associated with actual output of covered sectors, rather than a fixed cap. Covered emissions of regulated firms include both direct emissions and indirect emissions associated with electricity and heat consumed. During the 14th Five-Year Plan period, China’s national ETS should strive to achieve a full coverage of eight key energy-intensive and emissions-intensive industries, with the cap and benchmarks set following the principle of “strictly controlling emissions increase”, so as to facilitate carbon peaking before 2030. During the 15th Five-Year Plan period, sector and firm coverage of the national ETS should be further expanded. The cap setting and benchmark would be determined following the principle of “steadily decreasing emissions”. The proportion of permits for auction would be gradually increased, promoting the role of the national ETS in achieving carbon peaking and carbon neutrality.
@@ -25,7 +25,7 @@ abstract: The design of China’s national emissions trading system (ETS) needs 
 summary:
 
 tags:
-featured:
+featured: true
 
 # links:
 # - name: ""
