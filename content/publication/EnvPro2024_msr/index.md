@@ -4,11 +4,11 @@ authors:
 - Runxin Yu
 - Yuyan Weng
 - Xiliang Zhang
-date: "2024-7-10T00:00:00Z"
+date: "2024-07-10T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-7-10T00:00:00Z"
+publishDate: "2024-07-10T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -16,7 +16,7 @@ publishDate: "2024-7-10T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Environmental Protection"
+publication: "Environmental Protection, 2024"
 publication_short: ""
 
 abstract: 制定符合我国国情的市场稳定机制，对我国形成合理的碳价水平、控制整体减排成本、发挥碳市场的减排作用具有重要意义。本文探讨了市场稳定机制的理论措施和国际实践，将其分为基于价格和基于数量的两类措施；总结了欧盟碳市场基于数量的措施、美国加利福尼亚州碳市场基于价格的措施和韩国碳市场的多重措施。在此基础上，提出了全国碳市场建立市场稳定机制的建议，即以碳配额有偿分配为基础建立配额储备，探索制定科学的拍卖底价和储备触发价格，使主管部门能够通过配额储备调节市场流动性、通过拍卖促进价格发现，从而引导碳价在合理价格区间内波动.
