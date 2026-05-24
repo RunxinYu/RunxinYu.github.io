@@ -2,9 +2,9 @@
 title: "A comparative review of compliance-linked carbon offset programs in China and California: The new CCER and the Compliance Offset Program"
 authors:
 - Runxin Yu
-- Jeff Gordon
+- Jessica Gordon
 - Fan Dai
-- Shiyong Lu
+- Shize Lu
 - Da Zhang
 - Kebin He
 date: "2026-02-01T00:00:00Z"

@@ -2,8 +2,8 @@
 title: "Dynamic Ex-Post Baselines for Enhancing the Credibility of Improved Forest Management Carbon Offsets"
 authors:
 - Runxin Yu
-- Zhenyu Zhu
-- Shaozhou Qin
+- Ziheng Zhu
+- Shize Qin
 - Da Zhang
 date: "2026-03-01T00:00:00Z"
 doi: ""
@@ -20,10 +20,10 @@ publication_types: ["article-journal"]
 publication: "*Environmental Science & Technology,* 2026, 60(9): 6885-6898"
 publication_short: ""
 
-abstract: 改进型森林经营（Improved Forest Management，IFM）碳抵消项目通过激励林地权属方调整经营方式以获取额外的碳汇，但所签发碳抵消量的可信度高度依赖于反事实基准线的设定方式。在项目立项时固定下来的静态基准线，无法反映项目实施后区域森林动态的事后变化，难以将项目本身带来的固碳量与更广泛的区域趋势区分开来。本研究构建了一种事后动态基准线框架，利用双重差分设计随时间更新区域参照状况，并应用于美国加州合规碳抵消项目下的 IFM 项目。结果显示，静态基准线倾向于系统性地过度签发碳抵消量；而动态基准线方法可使所签发的碳抵消量与项目实际产生的额外固碳量更为吻合，为提升基于森林的碳抵消项目环境完整性提供了切实可行的路径，也为包括中国在内的其他司法管辖区设计类似机制提供了借鉴。
+abstract: Improved forest management (IFM) offset programs reward landowners for the additional carbon sequestered by adjusting forest management practices, but the credibility of the credits issued hinges on how the counterfactual baseline is set. Static baselines fixed at project initiation cannot reflect ex-post changes in regional forest dynamics, making it difficult to distinguish project-driven sequestration from broader trends. This study develops a dynamic ex-post baseline framework that updates regional reference conditions over time using a difference-in-differences design and applies it to IFM projects in California's Compliance Offset Program. The results show that static baselines tend to systematically over-credit projects, whereas the dynamic baseline approach better aligns issued credits with the actual additional sequestration generated, offering a practical pathway to enhance the environmental integrity of forest-based offset programs and informing the design of similar mechanisms in other jurisdictions, including China.
 
 # Summary. An optional shortened abstract.
-summary: 基于事后动态基准线的框架，更新区域参照状况，以提升改进型森林经营碳抵消项目的可信度。
+summary:
 
 tags:
 - Carbon offset, IFM, Forest, Baseline

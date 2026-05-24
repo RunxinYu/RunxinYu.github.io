@@ -1,8 +1,8 @@
 ---
 title: "Integrated planning of net-zero power systems for all"
 authors:
-- Zhenyu Zhu
-- Hancheng Mao
+- Ziheng Zhu
+- Hanjie Mao
 - Runxin Yu
 - et al.
 date: "2026-01-01T00:00:00Z"

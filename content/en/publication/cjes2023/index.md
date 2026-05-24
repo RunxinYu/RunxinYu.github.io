@@ -14,7 +14,7 @@ publishDate: "2023-07-01T00:00:00Z"
 
 publication_types: ["article-journal"]
 
-publication: "*China Environmental Science,* 2023, 43(7): 3787-3795"
+publication: "*China Environmental Science,* 2023, 43(7): 3787-3795 (Chinese)"
 publication_short: ""
 
 abstract: 针对水泥行业碳排放在线监测难题，本文提出基于水泥企业电力消费与碳排放关系的监测方法。结合企业实际生产数据，分析电力消费与碳排放之间的耦合关系，构建电-碳关系的监测模型，并对方法的准确性与适用性进行验证。研究为提升水泥行业碳排放数据质量与监测效率提供了新的技术路径，对完善全国碳市场数据基础具有积极意义。

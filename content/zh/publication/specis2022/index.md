@@ -21,7 +21,7 @@ publication_types: ["article-journal"]
 publication: "*2022 4th International Conference on Smart Power & Internet Energy Systems (SPIES)*, 2022, (2198-2202)"
 publication_short: ""
 
-abstract: 在"双碳"目标背景下，碳市场日益受到关注。准确的碳价预测有助于深入理解碳市场动态、合理分配碳排放配额。本文基于注意力机制（Attention）与长短期记忆网络（LSTM），提出了一种结合注意力机制改进 LSTM 的碳价预测模型。该模型能够区分不同信息的重要性，从而提取时间序列数据中的关键特征以提升预测精度。文章以欧洲能源交易所（EEX）的碳价数据为例，对模型表现进行验证，并与其他常用预测模型进行比较。结果显示，本文提出的碳价预测模型具有更好的拟合效果。
+abstract: With the proposal of double carbon target, carbon market has gradually become the focus of people’s attention, and accurate prediction of carbon price can help people better understand the dynamics of carbon market and allocate carbon emission quota reasonably. This paper carries out relevant research based on attention mechanism and long short-term memory (LSTM) network, and proposes a carbon price prediction model based on attention mechanism to improve LSTM method. This model can distinguish the importance of information, and in this way, important features in time series data can be obtained for prediction to improve the accuracy. Then, this paper takes the carbon price data of European Energy Exchange as an example to verify the performance of the model, and compares prediction results of the proposed model with those of other common forecasting models. The results show that the carbon price prediction model proposed in this paper has better fitting effect.
 
 # Summary. An optional shortened abstract.
 summary:

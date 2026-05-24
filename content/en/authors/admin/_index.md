@@ -13,7 +13,7 @@ status:
 superuser: true
 
 # Role/position
-role: Assistant Researcher
+role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
@@ -21,14 +21,13 @@ organizations:
     url: 'http://english.iue.cas.cn/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include climate policy design and evaluation, sustainable development of the digital and intelligent economy, and low-carbon energy transition.
+bio: My research spans sustainable AI, climate policy, low-carbon energy transition, and resource and environmental economics.
 
 interests:
-  - Climate Policy Design and Evaluation
-  - Sustainable Development of the Digital and Intelligent Economy
-  - Low-carbon Energy Transition
-  - Environmental and Resource Economics
-  - Carbon Market and Carbon Offset
+  - Sustainable AI
+  - Climate Policy
+  - Low-Carbon Energy Transition
+  - Resource and Environmental Economics
 
 education:
   courses:
@@ -38,9 +37,6 @@ education:
     - course: Visiting Scholar
       institution: University of California, Berkeley
       year: 2025
-    - course: B.Mgmt. in Accounting
-      institution: Sun Yat-Sen University
-      year: 2020
 
 skills:
   - name: Technical Skills
@@ -100,8 +96,8 @@ highlight_name: false
 
 ---
 
-I am an Assistant Researcher at the Institute of Urban Environment, Chinese Academy of Sciences (IUE-CAS). I received my Ph.D. in Management Science and Engineering from the Institute of Energy, Environment and Economy, Tsinghua University in 2025, under the supervision of Prof. Xiliang Zhang. From December 2024 to June 2025, I was a Visiting Scholar at the California-China Climate Institute, University of California, Berkeley, hosted by Fan Dai and Daniel Farber. I obtained my B.Mgmt. in Accounting from Sun Yat-Sen University in 2020.
+I am an Assistant Professor at the Institute of Urban Environment, Chinese Academy of Sciences (IUE-CAS). I received my Ph.D. in Management Science and Engineering from the Institute of Energy, Environment and Economy, Tsinghua University in 2025, under the supervision of Prof. Xiliang Zhang. From December 2024 to June 2025, I was a Visiting Scholar at the California-China Climate Institute, University of California, Berkeley, hosted by Fan Dai and Daniel Farber.
 
-My research focuses on climate policy design and evaluation, sustainable development of the digital and intelligent economy, and low-carbon energy transition, with a particular emphasis on emissions trading systems (carbon markets). My work examines critical aspects of carbon market design—such as cap-setting, sectoral coverage, allowance allocation, and market stability—contributing to the development of China's carbon market through academic publications, public reports, and confidential briefs. I also investigate voluntary carbon markets (e.g., forestry offsets) and inclusive decarbonization mechanisms (e.g., personal carbon accounts). Moving forward, I aim to deepen insights into carbon pricing, policy co-benefits, energy and climate justice, and innovative climate solutions.
+My research spans sustainable AI, climate policy, low-carbon energy transition, and resource and environmental economics. My work primarily focuses on the design and evaluation of climate policies and low-carbon energy transition. I have conducted in-depth analyses of core components of carbon market design, including cap-setting rules, sectoral coverage, allowance allocation, and market stability, and have contributed to the development of China's carbon market through academic publications, public research reports, and policy briefs. My research also covers voluntary carbon markets, such as forestry carbon offsets, as well as inclusive decarbonization mechanisms represented by personal carbon accounts. Currently, I am actively engaged in research on the sustainability of artificial intelligence, with a particular focus on AI energy utilization strategies and the climatic impact effects of AI systems.
 
 My latest CV can be found via the left icon.

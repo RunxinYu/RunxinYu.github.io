@@ -20,7 +20,7 @@ publication_types: ["article-journal"]
 publication: "*Energy and Climate Management,* Apri 2025"
 publication_short: ""
 
-abstract: 金砖国家温室气体排放约占全球的 45%，并已陆续承诺实现碳中和目标——巴西与南非到 2050 年、中国与俄罗斯到 2060 年、印度到 2070 年。本研究采用全球可计算一般均衡（CGE）模型，模拟金砖国家走向净零排放的能源系统转型路径，并比较其技术与经济影响。结果表明，实现碳中和需要大幅提升电气化水平与非化石能源比重，可再生能源在能源结构中的比例需达到 65%–82%，电力消费占终端能源比例需达到 55%–80%。研究还突出强调了碳捕集与碳移除技术的关键作用，2030 年以后这些技术预计贡献金砖国家 27%–64% 的减排量。各国减排成本差异较大，至碳中和目标年减排成本约为每吨 CO2 250–390 美元。能源系统的年度投资规模预计相当于 GDP 的 0.8%–3.5%。
+abstract: BRICS nations, accounting for around 45% of global greenhouse gas emissions, have committed to reach carbon neutrality -- Brazil and South Africa by 2050, China and Russia by 2060, and India by 2070. In this study, we use a computable general equilibrium model of the world economy to simulate energy system transformation pathways toward net zero, and compare their technological and economic implications. The results show that achieving carbon neutrality necessitates a significant increase in electrification and non-fossil fuel use, with 65% to 82% of energy to be supplied from renewables and 55% to 80% in form of electricity. The study also underscores the essential role of carbon capture and removal technologies, which are expected to contribute 27% to 64% of emission reductions after 2030 across BRICS. The mitigation costs vary by country, ranging from 250 to 390 USD per tonne of CO2 by the carbon neutrality year. Annual investments in the energy sector are projected to be equivalent to 0.8%–3.5% of GDP.
 
 # Summary. An optional shortened abstract.
 summary:

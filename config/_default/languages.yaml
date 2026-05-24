@@ -16,9 +16,6 @@ en:
       - name: Experience
         url: experience
         weight: 200
-      - name: Talks
-        url: post
-        weight: 300
 
 zh:
   languageCode: zh-Hans
@@ -27,7 +24,7 @@ zh:
   title: 余润心
   weight: 2
   params:
-    description: 中国科学院城市环境研究所助理研究员，研究方向为气候变化政策设计与评估、数智经济可持续发展、能源低碳转型。
+    description: 中国科学院城市环境研究所助理教授，研究方向为可持续人工智能、气候政策、能源低碳转型、资源与环境经济学。
   menus:
     main:
       - name: 论文
@@ -36,6 +33,3 @@ zh:
       - name: 经历
         url: experience
         weight: 200
-      - name: 报告
-        url: post
-        weight: 300

@@ -26,17 +26,6 @@ sections:
     design:
       columns: '2'
       view: card
-  - block: collection
-    id: featured-talks
-    content:
-      title: Featured Talks
-      filters:
-        folders:
-          - post
-        featured_only: true
-    design:
-      columns: '2'
-      view: card
   - block: skills
     content:
       title: Skills & Lanuages

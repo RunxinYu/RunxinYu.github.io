@@ -19,7 +19,7 @@ publication_types: ["article-journal"]
 publication: "*Available at SSRN 4773639*"
 publication_short: ""
 
-abstract: 本研究探讨了中国全国碳市场起步阶段中国碳排放配额（CEA）的价格驱动因素。基于 2021 年 7 月至 2023 年 7 月的日度时间序列数据，研究发现传统的能源价格和经济因素对碳价的影响有限，全国发电量反而成为更显著的驱动因素。这一现象主要源于中国全国碳市场独特的制度特征，特别是基于强度（rate-based）的总量管理以及行业覆盖范围。同时，研究发现 CEA 价格在第一个履约周期末期出现 12%–20% 的累积异常波动，反映出市场参与者对政策设计的预期与对碳交易理解的不足。研究通过强调中国独特的碳市场制度设计、与西方市场进行对比分析，进一步丰富了关于碳价决定因素的文献，并为发展中国家因地制宜地设计市场化碳定价政策提供了有益启示。
+abstract: This study explores the price drivers of Chinese Emissions Allowances (CEAs) in the early stage of China’s national carbon market. Using daily time series data from July 2021 to July 2023, we find limited influence from conventional drivers, including energy prices and economic factors. Instead, national power generation emerges as a significant driver. These are primarily due to the distinct institutional features of China’s national carbon market, notably its rate-based system and sectoral coverage. Moreover, the study uncovers cumulative abnormal volatility in CEA prices ranging from 12% to 20% around the end of the first compliance cycle, reflecting sentiments about the policy design and participants’ limited understanding about carbon trading. Our results extend previous literature regarding carbon pricing determinants by highlighting China’s unique carbon market design, comparing it with the western programs, and offering valuable insights for tailored market-based policies in developing countries.
 
 # Summary. An optional shortened abstract.
 summary:

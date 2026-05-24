@@ -17,13 +17,13 @@ sections:
       date_format: 2006年1月
       # Experiences.
       items:
-        - title: 助理研究员
+        - title: 助理教授
           company: 中国科学院城市环境研究所
           company_url: 'http://www.iue.cas.cn/'
           location: 福建厦门
           date_start: '2025-11-01'
           date_end: ''
-          description: 从事气候变化政策设计与评估、能源低碳转型以及数智经济可持续发展等方向的研究。
+          description: 从事可持续人工智能、气候政策、能源低碳转型，以及资源与环境经济学等方向的研究。
         - title: 访问学者
           company: 加州大学伯克利分校加州-中国气候变化研究院
           company_url: 'https://ccci.berkeley.edu/'
@@ -45,13 +45,6 @@ sections:
           date_start: '2024-02-01'
           date_end: '2024-04-01'
           description: 自然资源和生态环境司"加快建立与'双碳'目标相适应的财税体制专题研究"专班成员。
-        - title: 实习生
-          company: 中国国际金融股份有限公司
-          company_url: ''
-          location: 北京
-          date_start: '2021-01-01'
-          date_end: '2021-04-01'
-          description: 参与撰写区域碳中和报告、中美气候合作报告，并协助日常数据整理工作。
     design:
       columns: '2'
   - block: experience

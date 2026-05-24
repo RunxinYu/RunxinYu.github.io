@@ -1,8 +1,8 @@
 ---
 title: "Integrated planning of net-zero power systems for all"
 authors:
-- Zhenyu Zhu
-- Hancheng Mao
+- Ziheng Zhu
+- Hanjie Mao
 - Runxin Yu
 - et al.
 date: "2026-01-01T00:00:00Z"
@@ -18,7 +18,7 @@ publication_types: ["article-journal"]
 publication: "*Nature Energy,* 2026, 1-21"
 publication_short: ""
 
-abstract: 在深度脱碳约束下，实现全球电力系统的净零排放需要一种整合电源、输电、储能与需求侧灵活性的综合规划框架。本研究构建了这样一套综合规划模型，并将其应用于全球主要区域，以寻找通向完全脱碳电力系统的最低成本路径。结果表明，可再生能源大规模扩张并辅以跨区域输电、长时储能及灵活需求响应，是实现净零目标的核心要素。研究为政策制定者设计在技术可行、经济高效且兼具公平性的电力系统脱碳战略提供了切实可行的洞见。
+abstract: Achieving net-zero emissions across global power systems requires an integrated planning framework that jointly considers generation, transmission, storage, and demand-side flexibility under deep decarbonization constraints. This study develops such an integrated planning model and applies it across major regions to identify least-cost pathways toward fully decarbonized power systems. The results highlight the central role of renewable expansion combined with cross-regional transmission, long-duration storage, and flexible demand. The analysis offers actionable insights for policymakers designing power-sector decarbonization strategies that are technically feasible, economically efficient, and equitable.
 
 # Summary. An optional shortened abstract.
 summary:

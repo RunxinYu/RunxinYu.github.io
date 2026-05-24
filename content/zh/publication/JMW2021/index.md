@@ -11,10 +11,10 @@ publishDate: "2021-08-05T00:00:00Z"
 
 publication_types: ["article-journal"]
 
-publication: "*管理世界，* 2021，37(08)：80-95"
+publication: "*管理世界，* 2021，37(08)：80-95 (Chinese)"
 publication_short: ""
 
-abstract: 全国碳市场的设计需要借鉴经济学理论与国际实践经验，更需要充分考虑中国国情，建立具有中国特色的全国碳市场。在起步阶段，中国全国碳市场采用强度（基于排放强度的）而非总量控制设计，本质上是覆盖多行业的可交易绩效标准（Tradable Performance Standard），对不同生产活动起到税收或补贴的作用。中国全国碳市场设置与覆盖行业实际产出挂钩的弹性总量，而非固定总量；纳入的排放范围既包括直接排放，也包括与电力、热力消费相关的间接排放。"十四五"期间，全国碳市场应力争实现八大重点能源密集型和排放密集型行业的全覆盖，遵循"严控增量"原则设定总量与基准线，助力 2030 年前实现碳达峰。"十五五"期间，全国碳市场的行业与企业覆盖范围应进一步扩大；总量与基准线设定将遵循"稳步减排"原则；同时逐步提高配额拍卖比例，更充分地发挥全国碳市场对碳达峰、碳中和目标实现的支撑作用。
+abstract: The design of China’s national emissions trading system (ETS) needs to incorporate economic theory and international experiences, but more importantly, should fully consider China’s current situation to develop an ETS with Chinese characteristics. At the initial phase, China’s national ETS is a rate-based rather than mass-based system. It is essentially a multi-sector tradable performance standard and will serve as a tax or subsidy for different activities. China’s national ETS has a flexible cap associated with actual output of covered sectors, rather than a fixed cap. Covered emissions of regulated firms include both direct emissions and indirect emissions associated with electricity and heat consumed. During the 14th Five-Year Plan period, China’s national ETS should strive to achieve a full coverage of eight key energy-intensive and emissions-intensive industries, with the cap and benchmarks set following the principle of “strictly controlling emissions increase”, so as to facilitate carbon peaking before 2030. During the 15th Five-Year Plan period, sector and firm coverage of the national ETS should be further expanded. The cap setting and benchmark would be determined following the principle of “steadily decreasing emissions”. The proportion of permits for auction would be gradually increased, promoting the role of the national ETS in achieving carbon peaking and carbon neutrality.
 
 summary:
 

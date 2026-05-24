@@ -30,17 +30,6 @@ sections:
     design:
       columns: '2'
       view: card
-  - block: collection
-    id: featured-talks
-    content:
-      title: 代表性报告
-      filters:
-        folders:
-          - post
-        featured_only: true
-    design:
-      columns: '2'
-      view: card
   - block: skills
     content:
       title: 技能与语言

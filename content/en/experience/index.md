@@ -22,13 +22,13 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Assistant Researcher
+        - title: Assistant Professor
           company: Institute of Urban Environment, Chinese Academy of Sciences
           company_url: 'http://english.iue.cas.cn/'
           location: Xiamen, China
           date_start: '2025-11-01'
           date_end: ''
-          description: Conducting research on climate policy design and evaluation, low-carbon energy transition, and the sustainable development of the digital and intelligent economy.
+          description: Research on sustainable AI, climate policy, low-carbon energy transition, and resource and environmental economics.
         - title: Visiting Scholar
           company: California-China Climate Institute, University of California, Berkeley
           company_url: 'https://ccci.berkeley.edu/'
@@ -50,13 +50,6 @@ sections:
           date_start: '2024-02-01'
           date_end: '2024-04-01'
           description: Member of the special task force of the Department of Natural Resources and Ecological Environment on "Accelerating the Establishment of a Fiscal and Taxation System Corresponding to the Dual-Carbon Goals".
-        - title: Intern
-          company: China International Capital Corporation
-          company_url: ''
-          location: Beijing
-          date_start: '2021-01-01'
-          date_end: '2021-04-01'
-          description: Assisted in drafting regional carbon neutrality reports, China-US climate cooperation reports, and daily data collection.
     design:
       columns: '2'
   - block: experience

@@ -20,10 +20,10 @@ publication_types: ["article-journal"]
 publication: "*Communications Earth & Environment,* 2024, 5(1): 767"
 publication_short: ""
 
-abstract: 随着林业碳抵消项目受到越来越多的关注，如何量化其在项目边界之外的影响仍是一个待解的问题，尤其是在亚热带和温带地区。本研究聚焦于中国自愿性碳市场中 36 个林业碳抵消项目的本地溢出效应。基于匹配方法与双重差分分析，我们将项目区与缓冲区的森林状况和对应的参照区进行比较。结果显示，项目区整体呈现 2.25%–4.25% 的正向森林增量，邻近缓冲区也获得 0.91%–1.60% 的正向溢出效应，且不同项目间存在显著异质性。进一步分析显示几乎不存在泄漏现象，这可能与中国的土地政策以及项目自身特征有关；正向溢出主要通过知识扩散与信息传播实现，野火活动减少与项目申报的空间分布为其提供了佐证。本研究表明，设计良好的林业碳抵消项目可在项目边界之外带来生态正效应，为碳抵消政策设计与项目实施提供新的洞见。
+abstract: As forest-based carbon offset programs gain increasing attention, quantifying their impacts beyond project boundaries remains an open issue, particularly in subtropical and temperate regions. Here we focus on the local spillover effects of 36 forest offset projects in China’s voluntary carbon market. Using matching and difference-in-difference analysis, we compare the forest status of the project areas and buffer zones to their reference areas. Results show overall positive forest gains of 2.25% to 4.25% in project sites, with neighboring areas seeing spillover gains of 0.91% to 1.60%, exhibiting heterogeneity in individual projects. Further analysis finds limited evidence of leakage, possibly due to China’s land policies and project features; instead, positive spillovers are facilitated by knowledge diffusion and information flow, supported by reduced wildfire activities and project application patterns. This study demonstrates that well-designed forest offset programs can yield benefits beyond their boundaries, providing insights for offset policy design and project implementation.
 
 # Summary. An optional shortened abstract.
-summary: 基于生物物理与土地利用变量及双重差分模型的分析显示，中国 36 个林业碳抵消项目所在地从 2000 年至 2022 年植被显著增加，且缓冲区也出现明显的森林增益。
+summary:
 
 tags:
 - China, CCER, Carbon offset, forest

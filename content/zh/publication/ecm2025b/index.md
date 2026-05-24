@@ -15,7 +15,7 @@ publication_types: ["article-journal"]
 publication: "*Energy and Climate Management,* 2025"
 publication_short: ""
 
-abstract: 中国于 2021 年正式启动全国碳排放权交易体系（ETS），建成了以纳管排放量计全球规模最大的碳市场。本文系统回顾了中国全国碳市场从地方试点到全国统一市场的发展历程，归纳了以强度为基础的弹性总量、行业覆盖、配额分配、监测—报告—核查（MRV）体系，以及与抵消机制的衔接等关键制度设计。文章还梳理了在配额拍卖、市场稳定机制、行业扩围以及新一代国家核证自愿减排量（CCER）机制等方面的最新进展。结合政策文件与市场数据，文章讨论了全国碳市场对中国"双碳"目标的贡献以及未来发展面临的挑战与机遇。
+abstract: China launched its national emissions trading system (ETS) in 2021, establishing the world's largest carbon market by covered emissions. This overview traces the development of China's national carbon market from pilot programs to the national scheme, summarizing key design choices including its rate-based cap, sectoral coverage, allowance allocation, monitoring, reporting and verification, and offset linkage. It also documents recent progress on auctioning, market stability mechanisms, sectoral expansion, and the renewed China Certified Emission Reduction (CCER) scheme. Drawing on policy documents and market data, the paper discusses the program's contribution to China's dual-carbon goals and the challenges and opportunities for its further development.
 
 summary:
 

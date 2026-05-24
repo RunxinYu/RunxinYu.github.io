@@ -1,7 +1,7 @@
 ---
 title: "Desert power for the AI era"
 authors:
-- Zhenyu Zhu
+- Ziheng Zhu
 - Runxin Yu*
 - Wei-Qiang Chen
 - Da Zhang
