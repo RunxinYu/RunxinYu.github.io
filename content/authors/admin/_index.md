@@ -13,20 +13,21 @@ status:
 superuser: true
 
 # Role/position
-role: Ph.D. Candidate
+role: Assistant Researcher
 
 # Organizations/Affiliations
 organizations:
-  - name: Tsinghua University
-    url: 'https://www.tsinghua.edu.cn'
+  - name: Institute of Urban Environment, Chinese Academy of Sciences
+    url: 'http://english.iue.cas.cn/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include energy and climate policy.
+bio: My research interests include climate policy design and evaluation, sustainable development of the digital and intelligent economy, and low-carbon energy transition.
 
 interests:
-  - Energy and Climate Policy
+  - Climate Policy Design and Evaluation
+  - Sustainable Development of the Digital and Intelligent Economy
+  - Low-carbon Energy Transition
   - Environmental and Resource Economics
-  - Price-based Instruments
   - Carbon Market and Carbon Offset
 
 education:
@@ -34,7 +35,10 @@ education:
     - course: Ph.D. in Management Science and Engineering
       institution: Tsinghua University
       year: 2025
-    - course: B.Sc. in Accounting
+    - course: Visiting Scholar
+      institution: University of California, Berkeley
+      year: 2025
+    - course: B.Mgmt. in Accounting
       institution: Sun Yat-Sen University
       year: 2020
 
@@ -77,7 +81,7 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: "mailto:yrx20@mails.tsinghua.edu.cn"
+    link: "mailto:runxinyu@outlook.com"
   - icon: github
     icon_pack: fab
     link: https://github.com/RunxinYu
@@ -96,8 +100,8 @@ highlight_name: false
 
 ---
 
-I am a Ph.D. candidate at the Institute of Energy, Environment and Economy, Tsinghua University. In Spring 2025, I was a Visiting Scholar at the California-China Climate Institute, University of California, Berkeley. My research interest focuses on energy and climate policy, environmental and resource economics, and price-based instruments, with a particular emphasis on emissions trading system (known as carbon markets). 
+I am an Assistant Researcher at the Institute of Urban Environment, Chinese Academy of Sciences (IUE-CAS). I received my Ph.D. in Management Science and Engineering from the Institute of Energy, Environment and Economy, Tsinghua University in 2025, under the supervision of Prof. Xiliang Zhang. From December 2024 to June 2025, I was a Visiting Scholar at the California-China Climate Institute, University of California, Berkeley, hosted by Fan Dai and Daniel Farber. I obtained my B.Mgmt. in Accounting from Sun Yat-Sen University in 2020.
 
-My work examines critical aspects of carbon market design—such as cap-setting, sectoral coverage, allowance allocation, and market stability — contributing to development of China's carbon market through academic publications, public reports, and confidential briefs. I also investigate voluntary carbon markets (e.g., forestry offsets) and inclusive decarbonization mechanisms(e.g., personal carbon accounts). Moving forward, I aim to deepen insights into carbon pricing, policy co-benefits, energy and climate justice, and innovative climate solutions.
+My research focuses on climate policy design and evaluation, sustainable development of the digital and intelligent economy, and low-carbon energy transition, with a particular emphasis on emissions trading systems (carbon markets). My work examines critical aspects of carbon market design—such as cap-setting, sectoral coverage, allowance allocation, and market stability—contributing to the development of China's carbon market through academic publications, public reports, and confidential briefs. I also investigate voluntary carbon markets (e.g., forestry offsets) and inclusive decarbonization mechanisms (e.g., personal carbon accounts). Moving forward, I aim to deepen insights into carbon pricing, policy co-benefits, energy and climate justice, and innovative climate solutions.
 
-My lastest CV can be found in the left icon.
+My latest CV can be found via the left icon.
