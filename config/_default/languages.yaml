@@ -5,18 +5,37 @@
 # Default language
 en:
   languageCode: en-us
-  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
-  #contentDir: content/en
+  languageName: English
+  contentDir: content/en
+  weight: 1
+  menus:
+    main:
+      - name: Publications
+        url: publication
+        weight: 100
+      - name: Experience
+        url: experience
+        weight: 200
+      - name: Talks
+        url: post
+        weight: 300
 
-# Uncomment the lines below to configure your website in a second language.
-#zh:
-#  languageCode: zh-Hans
-#  contentDir: content/zh
-#  title: Chinese website title...
-#  params:
-#    description: Site description in Chinese...
-#  menu:
-#    main:
-#      - name: 传
-#        url: '#about'
-#        weight: 1
+zh:
+  languageCode: zh-Hans
+  languageName: 中文
+  contentDir: content/zh
+  title: 余润心
+  weight: 2
+  params:
+    description: 中国科学院城市环境研究所助理研究员，研究方向为气候变化政策设计与评估、数智经济可持续发展、能源低碳转型。
+  menus:
+    main:
+      - name: 论文
+        url: publication
+        weight: 100
+      - name: 经历
+        url: experience
+        weight: 200
+      - name: 报告
+        url: post
+        weight: 300
