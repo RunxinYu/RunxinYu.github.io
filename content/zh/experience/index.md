@@ -17,7 +17,7 @@ sections:
       date_format: 2006年1月
       # Experiences.
       items:
-        - title: 助理教授
+        - title: 助理研究员
           company: 中国科学院城市环境研究所
           company_url: 'http://www.iue.cas.cn/'
           location: 福建厦门
